@@ -91,7 +91,7 @@ I’m someone who enjoys learning, improving my skills, and taking on new challe
   <a href="https://github.com/damienswarts23">
     <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/damienswarts23">
+  <a href="www.linkedin.com/in/damien-swarts-b8b192352">
     <img src="https://img.shields.io/badge/LinkedIn-b5651d?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
