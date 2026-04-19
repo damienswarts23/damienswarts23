@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="git banner.png" width="500" style="border-radius: 20px;" />
+  <img src="git hub banner.png" width="500" style="border-radius: 20px;" />
 </p>
 
 ---
