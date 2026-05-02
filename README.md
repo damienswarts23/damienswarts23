@@ -10,11 +10,7 @@
 <tr>
 <td width="60%">
 
-
-
 ### 💻 Dev Thoughts
-
-> <sub>
 
 > *"I don’t quit when it breaks… I just debug harder."* 🔥  
 >  
@@ -22,11 +18,10 @@
 >  
 > *"I don’t panic… I just console.log everything."* 😂  
 
-</sub>
-
 </td>
 
 <td width="40%" align="center">
+
 <img src="github banner photo.png" width="50%" />
 
 </td>
@@ -97,11 +92,11 @@ const damien = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=damienswarts23&show_icons=true&theme=transparent&title_color=F4A261&text_color=333333&icon_color=F4A261&border_color=333333&bg_color=00000000&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=damienswarts23&show_icons=true&theme=transparent&title_color=F4A261&text_color=333333&icon_color=F4A261&border_color=333333&bg_color=00000000" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=damienswarts23&theme=transparent&ring=F4A261&fire=F4A261&currStreakLabel=F4A261&sideLabels=333333&dates=555555&border=333333" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damienswarts23&layout=compact&theme=transparent&title_color=F4A261&text_color=333333&border_color=333333&bg_color=00000000&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damienswarts23&layout=compact&theme=transparent&title_color=F4A261&text_color=333333&border_color=333333&bg_color=00000000" />
 
 </div>
 
