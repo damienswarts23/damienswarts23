@@ -38,7 +38,7 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=damienswarts23&label=Profile+Views&color=f4a261&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/damienswarts23?label=Followers&style=for-the-badge&color=1f1f1f" />
+<img src="https://img.shields.io/github/followers/damienswarts23?label=Followers&style=for-the-badge&color=1f1f1f&affiliations=OWNER%2CORG%2CMEMBER" />
 <img src="https://img.shields.io/github/stars/damienswarts23?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f4a261" />
 
 </div>
