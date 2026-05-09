@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=360&color=gradient&customColorList=0,2,12,20,24,30&text=DAMIEN%20SWARTS&fontSize=85&fontColor=FFFFFF&animation=twinkling&desc=SYSTEM%20BREACH%20%7C%20CODE%20MODE%20%7C%20NO%20LIMITS&descSize=22&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=360&color=gradient&customColorList=0,2,12,20,24,30&text=DAMIEN%20SWARTS&fontSize=85&fontColor=E6EDF3&animation=twinkling&desc=SYSTEM%20BREACH%20%7C%20CODE%20MODE%20%7C%20NO%20LIMITS&descSize=22&descAlignY=72" />
 
-</div>
 
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=32&pause=350&color=FF0055&center=true&vCenter=true&width=1100&lines=%E2%9A%A0+SYSTEM+OVERRIDE+DETECTED...;%F0%9F%92%A5+REAL-WORLD+SYSTEMS+LOADING...;%E2%9A%A1+BUGS+ARE+BEING+HUNTED...;%F0%9F%A7%A0+MINDSET:+LOCKED+IN...;%F0%9F%94%A5+BUILDING+UNTIL+IT+HITS...;%F0%9F%9A%80+NEXT+LEVEL+INCOMING..." />
 
@@ -68,6 +66,7 @@ ENERGY      : Unstable but productive
 ```
 
 </td>
+
 <td width="50%">
 
 ```yaml
@@ -155,6 +154,7 @@ STATUS : Under Construction
 Booking systems, rooms, users, admin control, and real-world platform logic.
 
 </td>
+
 <td width="50%">
 
 ## 🍽️ CATERING MVP
@@ -170,6 +170,7 @@ Orders, consultations, invoices, manager dashboards, and customer flows.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -185,6 +186,7 @@ STATUS : System Build
 User registration, plans, database saving, and desktop management logic.
 
 </td>
+
 <td width="50%">
 
 ## 🎓 STUDENT SYSTEM
@@ -208,13 +210,13 @@ Builder pattern, factories, repositories, CRUD, domain models, and tests.
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=damienswarts23&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=FF0055&text_color=FFFFFF&icon_color=00F5FF" />
+<img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=damienswarts23&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=FF0055&text_color=C9D1D9&icon_color=00F5FF" />
 
-<img height="185" src="https://streak-stats.demolab.com?user=damienswarts23&theme=radical&hide_border=true&background=050505&ring=FF0055&fire=FFEA00&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA" />
+<img height="185" src="https://streak-stats.demolab.com?user=damienswarts23&theme=radical&hide_border=true&background=050505&ring=FF0055&fire=FFEA00&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E" />
 
 <br><br>
 
-<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damienswarts23&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF" />
+<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damienswarts23&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=C9D1D9" />
 
 </div>
 
@@ -224,20 +226,27 @@ Builder pattern, factories, repositories, CRUD, domain models, and tests.
 
 <div align="center">
 
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+</div>
+
 ```txt
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   I DO NOT WAIT UNTIL I FEEL READY.                 ║
-║   I BUILD UNTIL I BECOME READY.                     ║
-║                                                      ║
-║   ERRORS ARE NOT STOP SIGNS.                        ║
-║   THEY ARE INSTRUCTIONS.                            ║
-║                                                      ║
-║   PRESSURE DOES NOT BREAK ME.                       ║
-║   IT COMPILES ME DIFFERENTLY.                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+I DO NOT WAIT UNTIL I FEEL READY.
+
+I BUILD UNTIL I BECOME READY.
+
+ERRORS ARE NOT STOP SIGNS.
+
+THEY ARE INSTRUCTIONS.
+
+PRESSURE DOES NOT BREAK ME.
+
+IT UPGRADES ME.
 ```
+
+<div align="center">
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 </div>
 
@@ -248,7 +257,7 @@ Builder pattern, factories, repositories, CRUD, domain models, and tests.
 <div align="center">
 
 | ⚽ Soccer | 🏉 Rugby | 💻 Technology |
-|---------|---------|--------------|
+|----------|----------|--------------|
 | 🌿 Nature | 🧠 Learning | 🚀 Self-Improvement |
 | 🔥 Discipline | 🎯 Focus | 🧩 Problem Solving |
 
@@ -283,6 +292,6 @@ Builder pattern, factories, repositories, CRUD, domain models, and tests.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&customColorList=0,2,12,20,24,30&text=ERROR%20404:%20LIMITS%20NOT%20FOUND&fontSize=32&fontColor=FFFFFF&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&customColorList=0,2,12,20,24,30&text=ERROR%20404:%20LIMITS%20NOT%20FOUND&fontSize=32&fontColor=E6EDF3&animation=blinking" />
 
 </div>
