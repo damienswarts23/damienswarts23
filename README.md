@@ -1,166 +1,271 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:F4A261,30:8B5E34,60:3a2a1f,100:000000&height=340&section=header&text=Damien%20Swarts&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Consistency.%20Growth.%20Code.&descAlignY=65&descSize=22)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=F4A261&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+CPUT+Student;Building+Real-World+Systems;Focused.+Consistent.+Always+Leveling+Up;Passionate+About+Technology;Always+Learning+and+Growing" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=360&color=gradient&customColorList=0,2,12,20,24,30&text=DAMIEN%20SWARTS&fontSize=85&fontColor=FFFFFF&animation=twinkling&desc=SYSTEM%20BREACH%20%7C%20CODE%20MODE%20%7C%20NO%20LIMITS&descSize=22&descAlignY=72" />
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=32&pause=350&color=FF0055&center=true&vCenter=true&width=1100&lines=%E2%9A%A0+SYSTEM+OVERRIDE+DETECTED...;%F0%9F%92%A5+REAL-WORLD+SYSTEMS+LOADING...;%E2%9A%A1+BUGS+ARE+BEING+HUNTED...;%F0%9F%A7%A0+MINDSET:+LOCKED+IN...;%F0%9F%94%A5+BUILDING+UNTIL+IT+HITS...;%F0%9F%9A%80+NEXT+LEVEL+INCOMING..." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-SYSTEM%20OVERRIDE-FF0055?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/MODE-CHAOS%20BUILD-00F5FF?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/ENERGY-MAXIMUM-39FF14?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/DEBUGGING-WARZONE-FFEA00?style=for-the-badge&labelColor=050505" />
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚠️⚡ WELCOME TO THE BUILD ZONE ⚡⚠️
+
+```txt
+██████╗  █████╗ ███╗   ███╗██╗███████╗███╗   ██╗
+██╔══██╗██╔══██╗████╗ ████║██║██╔════╝████╗  ██║
+██║  ██║███████║██╔████╔██║██║█████╗  ██╔██╗ ██║
+██║  ██║██╔══██║██║╚██╔╝██║██║██╔══╝  ██║╚██╗██║
+██████╔╝██║  ██║██║ ╚═╝ ██║██║███████╗██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═══╝
+```
+
+</div>
+
+---
+
+# 🧬 SYSTEM IDENTITY
+
+```bash
+┌──(damien㉿dev-machine)-[~/profile]
+└─$ whoami --full-send
+
+NAME        : Damien Swarts
+LOCATION    : Atlantis, Cape Town
+ROLE        : Software Developer
+EDUCATION   : ICT Applications Development @ CPUT
+MISSION     : Build real systems that actually work
+STATUS      : Learning. Building. Breaking. Fixing. Repeating.
+ENERGY      : Unstable but productive
+```
+
+---
+
+# 💥 CORE DIRECTIVES
+
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
-### 💻 Dev Thoughts
-
-> *"I don’t quit when it breaks… I just debug harder."* 🔥  
->  
-> *"Growth happens right after ‘why is this not working’."* 🚀  
->  
-> *"I don’t panic… I just console.log everything."* 😂  
+```diff
++ BUILD WHEN IT IS EASY.
++ BUILD WHEN IT BREAKS.
++ BUILD WHEN IT MAKES NO SENSE.
++ BUILD WHEN THE ERROR LOOKS PERSONAL.
++ BUILD UNTIL IT WORKS.
+```
 
 </td>
+<td width="50%">
 
-<td width="40%" align="center">
-
-<img src="github banner photo.png" width="50%" />
+```yaml
+combat_mode:
+  fear: disabled
+  excuses: deleted
+  focus: unstable_high
+  bugs: hunted
+  pressure: accepted
+  consistency: always_on
+```
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=damienswarts23&label=Profile+Views&color=f4a261&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/damienswarts23?label=Followers&style=for-the-badge&color=1f1f1f&affiliations=OWNER%2CORG%2CMEMBER" />
-<img src="https://img.shields.io/github/stars/damienswarts23?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f4a261" />
-
-</div>
-
 ---
 
-## 👨‍💻 About Me
-
-<div align="center">
-
-```yaml
-name: Damien Swarts
-location: Atlantis, Cape Town
-education: ICT Applications Development @ CPUT
-mindset: Consistent | Focused | Always Growing
-focus: Building real-world systems
-status: Leveling up every day 🚀
-```
-
-</div>
-
-I’m someone who enjoys learning, improving my skills, and taking on new challenges.  
-I stay dedicated to what I do and bring consistency, leadership, and discipline into everything I’m part of.
-
----
-
-## ⚡ Developer Profile
-
-<div align="center">
+# 🚨 DEV PROFILE.EXE
 
 ```javascript
 const damien = {
   role: "Software Developer",
-  student: "CPUT ICT Applications Development",
-  strengths: ["Consistency", "Discipline", "Growth Mindset", "Problem Solving"],
-  interests: ["Technology", "Soccer", "Rugby", "Nature", "Self-improvement"],
-  currentMission: "Building skills and real-world systems every day"
+  mindset: "Consistency over mood",
+  currentState: "Building under pressure",
+  specialty: "Turning broken ideas into working systems",
+  weakness: "One small missing semicolon can ruin my night",
+  strength: "I come back and fix it anyway",
+
+  execute() {
+    return "Code. Break. Debug. Upgrade. Repeat.";
+  }
 };
+
+console.log("SYSTEM ONLINE:", damien.execute());
+```
+
+---
+
+# 🧨 TECH LOADOUT
+
+<div align="center">
+
+## ⚡ FRONTEND BLAST
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=5" />
+
+<br>
+
+## 🧠 BACKEND ENGINE
+
+<img src="https://skillicons.dev/icons?i=java,python,cs,php,nodejs&perline=5" />
+
+<br>
+
+## 🗄️ DATA CORE
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&perline=3" />
+
+<br>
+
+## 🛠️ DEV WEAPONS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,figma,postman,npm,maven&perline=9" />
+
+</div>
+
+---
+
+# 🕹️ ACTIVE CHAOS MISSIONS
+
+<table>
+<tr>
+<td width="50%">
+
+## 🏠 STAYHUB
+
+```txt
+[████████░░] 80% LOADING...
+TYPE   : Accommodation Platform
+STACK  : PHP + MySQL
+STATUS : Under Construction
+```
+
+Booking systems, rooms, users, admin control, and real-world platform logic.
+
+</td>
+<td width="50%">
+
+## 🍽️ CATERING MVP
+
+```txt
+[███████░░░] 70% LOADING...
+TYPE   : Business Workflow System
+STACK  : React + Supabase
+STATUS : MVP Build
+```
+
+Orders, consultations, invoices, manager dashboards, and customer flows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+## 🏋️ GYM MANAGEMENT
+
+```txt
+[██████░░░░] 60% LOADING...
+TYPE   : Desktop Application
+STACK  : C# + MySQL
+STATUS : System Build
+```
+
+User registration, plans, database saving, and desktop management logic.
+
+</td>
+<td width="50%">
+
+## 🎓 STUDENT SYSTEM
+
+```txt
+[█████████░] 90% LOADING...
+TYPE   : Java OOP System
+STACK  : Java + Maven
+STATUS : Academic Build
+```
+
+Builder pattern, factories, repositories, CRUD, domain models, and tests.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 DAMAGE REPORT
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=damienswarts23&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=FF0055&text_color=FFFFFF&icon_color=00F5FF" />
+
+<img height="185" src="https://streak-stats.demolab.com?user=damienswarts23&theme=radical&hide_border=true&background=050505&ring=FF0055&fire=FFEA00&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA" />
+
+<br><br>
+
+<img height="190" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damienswarts23&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+# 🧠 MINDSET OVERDRIVE
+
+<div align="center">
+
+```txt
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   I DO NOT WAIT UNTIL I FEEL READY.                 ║
+║   I BUILD UNTIL I BECOME READY.                     ║
+║                                                      ║
+║   ERRORS ARE NOT STOP SIGNS.                        ║
+║   THEY ARE INSTRUCTIONS.                            ║
+║                                                      ║
+║   PRESSURE DOES NOT BREAK ME.                       ║
+║   IT COMPILES ME DIFFERENTLY.                       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,cs,html,css,mysql,git,github,vscode,visualstudio,react,supabase&perline=7" />
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=damienswarts23&show_icons=true&theme=transparent&title_color=F4A261&text_color=333333&icon_color=F4A261&border_color=333333&bg_color=00000000" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=damienswarts23&theme=transparent&ring=F4A261&fire=F4A261&currStreakLabel=F4A261&sideLabels=333333&dates=555555&border=333333" />
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=damienswarts23&layout=compact&theme=transparent&title_color=F4A261&text_color=333333&border_color=333333&bg_color=00000000" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-- 🏋️ **Gym Management System**  
-  C# + MySQL desktop application  
-
-- 🏠 **Student Accommodation Website**  
-  PHP + MySQL full-stack website  
-
-- 🎓 **Lecturer-Student Management System**  
-  Java client-server application  
-
-- 🔐 **User Authentication Website**  
-  HTML, CSS, JavaScript  
-
----
-
-## 🌱 Currently
-
-- 🎓 Growing as a developer at **CPUT**
-- 💻 Building real-world projects
-- 🚀 Improving coding + problem-solving skills
-- 🔥 Learning more about full-stack development
-- 🧠 Staying consistent every day
-
----
-
-## ⚡ Things I Enjoy
+# ⚔️ SIDE QUESTS
 
 <div align="center">
 
 | ⚽ Soccer | 🏉 Rugby | 💻 Technology |
-|--------|--------|--------------|
-| 🌿 Outdoors | 🧠 Learning | 🚀 Self-improvement |
+|---------|---------|--------------|
+| 🌿 Nature | 🧠 Learning | 🚀 Self-Improvement |
+| 🔥 Discipline | 🎯 Focus | 🧩 Problem Solving |
 
 </div>
 
 ---
 
-## 🎯 Goals
-
-- Become a skilled software developer  
-- Build impactful real-world systems  
-- Keep improving every day  
-- Stay disciplined and consistent  
-- Create a strong future through hard work  
-
----
-
-## 📫 Let's Connect
+# 🔗 ENTER THE MAINFRAME
 
 <div align="center">
 
 <a href="https://github.com/damienswarts23">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FF0055"/>
 </a>
 
 <a href="https://www.linkedin.com/in/damien-swarts-b8b192352/">
-  <img src="https://img.shields.io/badge/LinkedIn-F4A261?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
 </div>
@@ -169,10 +274,15 @@ const damien = {
 
 <div align="center">
 
-### 💭 *“Consistency beats motivation. Show up and build.”*
+```diff
++ SYSTEM BREACH COMPLETE
++ DEVELOPER ONLINE
++ LIMITS REMOVED
++ NEXT BUILD INCOMING
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&customColorList=0,2,12,20,24,30&text=ERROR%20404:%20LIMITS%20NOT%20FOUND&fontSize=32&fontColor=FFFFFF&animation=blinking" />
 
 </div>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:3a2a1f,75:8B5E34,100:F4A261&height=200&section=footer)
